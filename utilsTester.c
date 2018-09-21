@@ -1,7 +1,11 @@
+//Author: Christopher Reid and Ryan Eshleman
+// This program is to test functions such as degreesToRadians
+
 double getAirDistance (double originLatitude,
                        double orginLongitude,
                        double destinationLatitude,
-                       double destinationLongitude){
+                       double destinationLongitude)
+                       {
 
  if (-90 < originLatitude ||
   originLatitude < 90 ||
