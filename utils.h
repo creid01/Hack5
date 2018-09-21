@@ -1,4 +1,6 @@
-//**This is a function tht coverts degrees to radians*//
+//Author: Christopher Reid and Ryan Eshleman
+
+//**This is a function the coverts degrees to radians*//
 
 double degreesToRadians(double degree);
 
